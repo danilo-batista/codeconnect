@@ -9,9 +9,13 @@
 
 ## Descrição do projeto
 
-Criação do projeto CodeConnect realizado para o treinamento [React: Construindo SPAs com React-Router](https://www.alura.com.br/curso-online-react-construindo-spas-react-router) realizado na Alura.
+Parte 1: Criação do projeto CodeConnect realizado para o treinamento [React: Construindo SPAs com React-Router](https://www.alura.com.br/curso-online-react-construindo-spas-react-router) realizado na Alura.
 
-O objetivo do projeto era criar uma rede social para devs utilizando as tecnologias ensinadas no treinamento.
+    O objetivo do projeto era criar uma rede social para devs utilizando as tecnologias ensinadas no treinamento.
+
+Parte 2: Atualização do projeto CodeConnect realizada para o treinamento [React: Consumindo APIs HTTP no seu projeto](https://www.alura.com.br/curso-online-react-consumindo-apis-http-projeto) realizado na Alura.
+
+    O objetivo agora é atualizar o projeto com o consumo de um back-end via APIs.
 
 * **Base**: HTML, CSS e JavaScript
 * **Front-end**: React.js
